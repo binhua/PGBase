@@ -2,9 +2,6 @@ package info.binhua.al.chkip;
 
 public class ChkIP {
 	
-	private static final int m = 5;
-	private static final int n = 4;
-
 	public static void main(String[] args){
 		
 		System.out.println(chk_IP("192.168..1.111"));
